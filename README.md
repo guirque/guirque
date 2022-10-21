@@ -2,7 +2,6 @@
 
 <h2>Por aqui, vou ampliando minha jornada pelo mundo dos 0s e 1s.</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
 <table>
 
 <tr>
