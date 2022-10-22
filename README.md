@@ -12,5 +12,5 @@
 <hr/>
 
 
-<img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="Botao (badge) freeCodeCamp"> <a href="https://www.freecodecamp.org/guircc">
-<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Botao (badge) Codepen"> <a href="https://codepen.io/guircc">
+<a href="https://www.freecodecamp.org/guircc"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="Botao (badge) freeCodeCamp"></a>
+<a href="https://codepen.io/guircc"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Botao (badge) Codepen"></a> 
