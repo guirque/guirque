@@ -5,8 +5,8 @@
 <table>
 
 <tr>
-<th> <img src="https://github-readme-stats.vercel.app/api?username=guirque&show_icons=true&theme=tokyonight&hide=stars" alt="Status do Usuario"> </th>
-<th> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirque&layout=compact&show_icons=true&theme=tokyonight" alt="Linguagens mais usadas"> </th>
+<th> <img src="https://github-readme-stats.vercel.app/api?username=guirque&theme=tokyonight&hide=stars" alt="Status do Usuario" /></th>
+<th> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirque&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" /></th>
 </tr>
 
 </table>
