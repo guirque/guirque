@@ -70,6 +70,12 @@ Sou estudante de Ciência da Computação, e meus conhecimentos e interesses sã
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
     </td>
   </tr>
+  <tr>
+    <th>Conteinerização</th>
+    <td>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    </td>
+  </tr>
 
 </table>
 
